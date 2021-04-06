@@ -1,3 +1,2 @@
 # ML-ND-TF
-Udacity Machine Learning Nanodegree with TensorFlow
-Projects Solutions
+Udacity Machine Learning with TensorFlow Nanodegree 
